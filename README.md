@@ -9,6 +9,7 @@
    그러나 프로세스 목록을 가져오게 되어도 윈도우10의 UWP앱같은 경우 프로세스 상태가 CLOCKED상태로 있어 사용자에게는 보이지 않으나 프로세스 목록에 출력되는 현상이 있음
 
    > 이 문제를 해결하기 위해  Dwmapi.dll의 **DwmGetWindowAttribute**함수를 이용하여 CLOCKED상태인 프로세스를 처리할 수 있었다.
+   > 참고링크: https://stackoverflow.com/questions/32149880/how-to-identify-windows-10-background-store-processes-that-have-non-displayed-wi
 
 
 
