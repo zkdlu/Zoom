@@ -13,3 +13,18 @@ D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Zoom Project.csproj.Gener
 D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Zoom Project.csproj.CoreCompileInputs.cache
 D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Zoom Project.exe
 D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Zoom Project.pdb
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\bin\Debug\CommonServiceLocator.dll
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\bin\Debug\GalaSoft.MvvmLight.dll
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\bin\Debug\System.Windows.Interactivity.dll
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\bin\Debug\GalaSoft.MvvmLight.xml
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Views\MainView.g.cs
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Views\MainView.baml
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Zoom Project.csproj.CopyComplete
