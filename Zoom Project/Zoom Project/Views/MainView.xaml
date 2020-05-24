@@ -15,7 +15,7 @@
                     Command="{Binding Path=WindowOpenCommand}"/>
         </Grid>
         <Grid DockPanel.Dock="Top" Background="Gray">
-            <Image Margin="10" Stretch="Uniform"/>
+            <Image Margin="10" Source="{Binding Path=ShareImage, UpdateSourceTrigger=PropertyChanged}" Stretch="Uniform"/>
         </Grid>
     </DockPanel>
 </UserControl>

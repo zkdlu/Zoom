@@ -4,6 +4,6 @@
              xmlns:local="clr-namespace:Zoom_Project"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <ResourceDictionary Source="Resources/mapping.xaml"/>
     </Application.Resources>
 </Application>

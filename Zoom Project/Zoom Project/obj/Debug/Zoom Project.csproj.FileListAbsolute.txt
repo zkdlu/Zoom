@@ -36,3 +36,6 @@ D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Views\ApplicationView.bam
 D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Views\ShareView.baml
 D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Views\MyScreenView.g.cs
 D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Views\MyScreenView.baml
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Resources\mapping.baml
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Resources\styles.baml
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\App.baml
