@@ -1,0 +1,15 @@
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\bin\Debug\Zoom Project.exe.config
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\bin\Debug\Zoom Project.exe
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\bin\Debug\Zoom Project.pdb
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Zoom Project.csprojAssemblyReference.cache
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\MainWindow.g.cs
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\App.g.cs
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Zoom Project_MarkupCompile.cache
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Zoom Project_MarkupCompile.lref
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\MainWindow.baml
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Zoom Project.g.resources
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Zoom_Project.Properties.Resources.resources
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Zoom Project.csproj.GenerateResource.cache
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Zoom Project.csproj.CoreCompileInputs.cache
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Zoom Project.exe
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Zoom Project.pdb
