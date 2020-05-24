@@ -2,6 +2,7 @@
 using System;
 using System.Windows;
 using System.Windows.Input;
+using Zoom_Project.ViewModels.Process;
 
 namespace Zoom_Project.ViewModels
 {
@@ -62,6 +63,27 @@ namespace Zoom_Project.ViewModels
 
         private void SelectSharetMode(Window window)
         {
+            if (SelectedTabIndex == 0)
+            {
+                Mediator.ShareMode = ShareMode.Screen;
+            }
+            else
+            {
+                ProcessViewModel selectedProcess = ApplicationViewModel.SelectedProcess;
+                Mediator.ShareMode = ShareMode.Application;
+
+                if (selectedProcess != null)
+                {
+                    Mediator.Application = selectedProcess.ProcessInfo;
+                }
+                else
+                {
+                    Mediator.Application = null;
+                }
+            }
+
+            Mediator.IsShare = true;
+
             window.DialogResult = true;
             window.Close();
         }
