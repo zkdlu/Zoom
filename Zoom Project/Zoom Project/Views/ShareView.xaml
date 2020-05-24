@@ -3,19 +3,25 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
-             xmlns:local="clr-namespace:Zoom_Project.Views"
+             xmlns:local="clr-namespace:Zoom_Project.Views" xmlns:viewmodels="clr-namespace:Zoom_Project.ViewModels"
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.DataContext>
+        <viewmodels:ShareViewModel/>
+    </UserControl.DataContext>
     <DockPanel LastChildFill="True" Background="White">
         <Grid DockPanel.Dock="Bottom" Height="60" Background="LightGray">
-            <Button Content="Share" Width="120" Height="40" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <Button Command="{Binding Path=ClickCommand}"
+                    CommandParameter="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}"
+                    Content="Share" Width="120" Height="40" VerticalAlignment="Center" HorizontalAlignment="Center"/>
         </Grid>
-        <TabControl Background="Gray">
+        <TabControl Background="Gray"
+                    SelectedIndex="{Binding Path=SelectedTabIndex, Mode=TwoWay}">
             <TabItem Header="My Screen">
-                <local:MyScreenView/>
+                <local:MyScreenView DataContext="{Binding Path=MyScreenViewModel}"/>
             </TabItem>
             <TabItem Header="Application">
-                <local:ApplicationView/>
+                <local:ApplicationView DataContext="{Binding Path=ApplicationViewModel}"/>
             </TabItem>
         </TabControl>
     </DockPanel>
