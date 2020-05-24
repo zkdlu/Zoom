@@ -28,3 +28,11 @@ D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Views\MainView.g.cs
 D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
 D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Views\MainView.baml
 D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Zoom Project.csproj.CopyComplete
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\ShareWindow.g.cs
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Views\ApplicationView.g.cs
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Views\ShareView.g.cs
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\ShareWindow.baml
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Views\ApplicationView.baml
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Views\ShareView.baml
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Views\MyScreenView.g.cs
+D:\Project\C#\Zoom\Zoom Project\Zoom Project\obj\Debug\Views\MyScreenView.baml

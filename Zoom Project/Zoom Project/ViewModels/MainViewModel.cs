@@ -10,7 +10,7 @@ namespace Zoom_Project.ViewModels
     {
         private DispatcherTimer _dispatcherTimer;
 
-        private string buttonContent;
+        private string buttonContent = "Share";
         public string ButtonConent
         {
             get { return buttonContent; }
@@ -48,7 +48,8 @@ namespace Zoom_Project.ViewModels
 
         private void OpenWindowOrStop()
         {
-            
+            ShareWindow shareWindow = new ShareWindow();
+            shareWindow.ShowDialog();
         }
     }
 }

@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 D:\Project\C#\Zoom\Zoom Project\Zoom Project\App.xaml
-2-1331668027
+6-1990938933
 
-101415523821
+14-343778951
 122-1847018519
-MainWindow.xaml;Views\MainView.xaml;
+MainWindow.xaml;ShareWindow.xaml;Views\ApplicationView.xaml;Views\MainView.xaml;Views\MyScreenView.xaml;Views\ShareView.xaml;
 
 False
 

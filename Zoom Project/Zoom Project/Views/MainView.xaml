@@ -11,7 +11,8 @@
     </UserControl.DataContext>
     <DockPanel LastChildFill="True">
         <Grid DockPanel.Dock="Bottom" Height="60" Background="LightGray">
-            <Button Content="Binding" Width="120" Height="40" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <Button Content="{Binding Path=ButtonConent}" Width="120" Height="40" VerticalAlignment="Center" HorizontalAlignment="Center"
+                    Command="{Binding Path=WindowOpenCommand}"/>
         </Grid>
         <Grid DockPanel.Dock="Top" Background="Gray">
             <Image Margin="10" Stretch="Uniform"/>
